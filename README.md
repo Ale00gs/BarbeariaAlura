@@ -16,6 +16,8 @@
 
 </div>
 
+<p align="center">Apresento a seguir um projeto que elaborei durante o período de férias, como parte do curso realizado na plataforma Alura. </br></p>
+
 ## Visualização
 
 Acesse esse link para a visualização do projeto: [Abrir Link](https://ale00gs.github.io/-OracleNextEducation---BarbeariaAlura/)
